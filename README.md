@@ -1,7 +1,7 @@
 
 # CENG311 Computer Architecture Lab Work
 
-* In the scope of this course. We have used Tolga Ayav "Design_Notes_of_Microprocessor_u311_1.pdf" document 
+* In the scope of this course. We have used Assoc. Prof. Dr. Tolga AYAV "Design_Notes_of_Microprocessor_u311_1.pdf" document 
 to understand how a microprocessor can be designed, implemented, programmed, enhanced and debugged.
 
 * ModelSim was used for the simulation environment.
